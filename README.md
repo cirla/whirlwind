@@ -18,18 +18,19 @@ No prior knowledge of programming is expected or required, and the only software
 
 Learn about variables, data types, functions, basic input and output, etc.
 
-### [Practice Makes Perfect](notebooks/02-practice.ipynb)
-
-Get the hang of things by combining topics from the previous session in more intricate ways and learning some troubleshooting techniques.
-
-### [Libraries are Our Friends](notebooks/03-libraries.ipynb)
+### [Libraries are Our Friends](notebooks/02-libraries.ipynb)
 
 Don't reinvent the wheel.
-Learn to take advantage of existing code to do what you need.
+Learn to take advantage of other people's code to do what you need.
 
-### [Interacting with The Internet](notebooks/04-internet.ipynb)
+### [Interacting with The Internet](notebooks/03-internet.ipynb)
 
 Learn how to access and make the most of interactive information on the Internet.
+
+### [Final Project - TBD](notebooks/04-project.ipynb)
+
+TBD. Implementing a fun and useful tool from start to finish.
+
 
 ## Getting Started
 
